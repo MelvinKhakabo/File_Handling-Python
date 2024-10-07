@@ -1,0 +1,6 @@
+Hello, this is my file!
+Python file handling is interesting.
+Here are some numbers: 1, 2, 3.
+Appending more text.
+Another line for testing.
+Final line of the file.
